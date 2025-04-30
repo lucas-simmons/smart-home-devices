@@ -1,0 +1,11 @@
+#root {
+  width: 100%;
+  margin: 0 ;
+  padding: 0;
+  text-align: center;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+  margin-top: 0;
+}

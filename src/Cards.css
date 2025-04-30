@@ -1,0 +1,95 @@
+.cards {
+    display: grid;
+    grid-template-columns: 30% 30% 30% 10%;
+    grid-template-rows: max-content;
+    padding: 10px;
+    border-top: 2px solid gray;
+    border-radius: 0%;
+    margin: 0;
+    background-color: rgb(91, 116, 160);
+    column-gap: 50px;
+    box-shadow: 0 10px 10px 10px black;
+
+}
+.device-img{
+    height: min-content;
+    width: min-content;
+}
+.col {
+    padding: 0;
+    justify-items: center;
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.cards h1 {
+    border-bottom: 2px solid gray;
+    background-color: #d6eaff;
+    color: rgb(72, 72, 72);
+    border-radius: 5%;
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 0 0px 5px 0px black;
+   
+
+}
+.amazon {
+    
+    grid-column: 2;   
+    grid-row: 2;
+ 
+}
+.card {
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 0;
+    box-shadow: 0 0px 5px 0px black;
+    margin-bottom: 20px;
+    
+}
+
+
+.Title-a {
+    font-size:300%;
+    width: 100%;
+    height: 100%;
+    grid-row: 1;
+    grid-column: 2;
+}
+.Title-g {
+    font-size:300%;
+    width: 100%;
+    height: 100%;
+    grid-row: 1;
+    grid-column: 3;
+}
+.Title-o {
+    font-size:300%;
+    width: 100%;
+    height: 100%;
+    grid-row: 1;
+    grid-column: 1;
+
+}
+.other {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.google {
+    grid-column: 3;
+    grid-row: 2;
+}
+img {
+    height: 100%;
+    
+}
+.graph {
+    height: 366px;
+    width: 458px;
+    
+}
+
+
+
+  

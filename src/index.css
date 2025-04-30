@@ -1,0 +1,27 @@
+:root {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-style:normal;
+  /* line-height: 1.5;
+  font-weight: 400; */
+  margin: 0;
+  padding: 0;
+  color-scheme: light dark;
+  color: #242424;
+  background-color: rgb(173, 208, 236);
+}
+* {
+  margin-top: 0;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
