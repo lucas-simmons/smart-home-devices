@@ -1,3 +1,5 @@
+## Deployed on GitHub Pages: https://lucas-simmons.github.io/smart-home-devices/
+
 # smart-home-devices
 For my UnEssay, I chose to inform consumers about the security of smart home devices they may purchase for their homes. The format I chose was to develop an informative website where consumers could learn more about the security vulnerabilities in 10 different devices. The devices are categorized into three sections: Assistant, Security, and Service. Each device has data and information on its CVE program-reported vulnerabilities. The website is made to keep consumers informed and engaged. 
 
